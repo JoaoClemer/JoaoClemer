@@ -1,6 +1,6 @@
 ### Olá, meu nome é João Clemer 👋
- <p> Procuro ingressar no mercado da tecnologia através de uma vaga de estágio ou desenvolvedor junior, me considero uma pessoa entusiasta em novas tecnologias e sempre disposto a encarar novos desafios.</p>
-<p> Possuo foco em desenvolvimento web com Angular para criação de aplicações com alto desempenho, também tenho conhecimento em HTML, CSS, SASS, BootStrap e SQL.</p>
+ <p> Atualmente estou realizando um estágio como desenvolvedor na empresa Compila Soluções em Tecnologia, venho obtendo um grande aprendizado com a equipe e com os novos desafios. </p>
+<p> Possuo conhecimento diversas tecnologias para a criação de aplicações, algumas dessas tecnologias são: Angular, BootStrap, TypeScript, JavaScript, HTML, CSS, C# e SQL.</p>
 
 [![João Clemer github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoClemer&show_icons=true&count_private=true&title_color=c7ffd1&icon_color=c7ffd1&text_color=00f0b1&bg_color=004d38)](https://github.com/JoaoClemer)
 <br>
