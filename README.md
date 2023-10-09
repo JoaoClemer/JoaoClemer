@@ -6,4 +6,13 @@
 - 🧑‍💻 Atualmente trabalho como Desenvolvedor Full Stack .NET|Angular.
 - ↗️ Estou sempre em busca de aprimorar e consolidar meus conhecimentos.
 - 📧 Entre em contato comigo: joaoclemerlima@gmail.com
-  
+
+<hr>
+
+<h3 align ="center">Tecnologias</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,dotnet,cs,angular,js,bootstrap,ts,mysql,docker," />
+  </a>
+</p>
